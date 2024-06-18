@@ -1,4 +1,4 @@
-# Fleshy Fruits and Fruit Color
+# Fleshy Fruits and Fruit Color (which is a collaboration now)
 
 ## Code and Data used for research project exploring evolutionary relationship between fruit color and fleshy/non-fleshy fruits. 
 
